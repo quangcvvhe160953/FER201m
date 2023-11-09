@@ -1,0 +1,73 @@
+{
+    "films": [
+        {
+            "id": 1,
+            "img": "image001_11.jpg",
+            "category": "Action",
+            "description": "'Spider-Man: No Way Home' follows Peter Parker as he navigates a multiverse filled with familiar villains and alternate Spider-Men.",
+            "name": "Spiderman noway home",
+            "publicdate": 2021
+           
+        },
+        {
+            "id": 2,
+            "img": "koreanlovekim.jpg",
+            "category": "Love",
+            "description": "'What's Wrong with Secretary Kim' is a romantic comedy K-drama about a narcissistic executive and his capable secretary's rocky relationship.",
+            "name": "What’s Wrong with Secretary Kim?",
+            "publicdate": 2018
+          
+           
+        },
+        {
+            "id": 3,
+            "img": "nun.jpg",
+            "category": "Horrified",
+            "description": "'The Nun' is a horror movie about a priest and a novitiate sent to investigate a haunted convent in Romania..",
+            "name": "The nun",
+            "publicdate": 2018
+         
+      
+        },
+        {
+            "id": 4,
+            "img": "paratyse.jpg",
+            "category": "Anime",
+            "description": "'Parasyte: The Maxim' is an anime series about a teenage boy, Shinichi, and his symbiotic relationship with a parasitic alien.",
+            "name": "Parasyte: The Maxim",
+            "publicdate": 2014
+        
+           
+        },
+        {
+            "id": 5,
+            "img": "avatar.jpg",
+            "category": "Fiction",
+            "description": "'Avatar 2' is the highly anticipated sequel to James Cameron's blockbuster hit, featuring new characters, locations, and technological advancements in the Na'vi world.",
+            "name": "Avatar 2",
+            "publicdate": 2022
+        
+           
+        },
+        {
+            "id": 6,
+            "img": "startko.jpg",
+            "category": "Love",
+            "description": "A romantic fantasy K-drama about an alien who falls in love with a top actress while on Earth for 400 years.",
+            "name": "My Love from Another Star",
+            "publicdate": 2013
+        
+        
+        },
+        {
+            "id": 7,
+            "img": "iron.jpg",
+            "category": "Action",
+            "description": "Tony Stark faces a new threat from a terrorist called the Mandarin, while dealing with PTSD and rebuilding his suits.",
+            "name": "Ironman 3",
+            "publicdate": 2013
+      
+            
+        }
+    ]
+}
